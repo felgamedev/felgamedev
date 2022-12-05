@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felgamedev
 - 👀 I’m interested in web, game and mobile development
-- 🌱 I’m currently learning Godot and React
+- 🌱 I’m currently learning Microservices Architecture and Google Billing
 
 <!---
 felgamedev/felgamedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
